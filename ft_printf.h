@@ -5,12 +5,12 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: iel-ouar <iel-ouar@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/11/24 14:31:21 by iel-ouar          #+#    #+#             */
-/*   Updated: 2024/11/26 14:09:47 by iel-ouar         ###   ########.fr       */
+/*   Created: 2024/11/27 17:16:44 by iel-ouar          #+#    #+#             */
+/*   Updated: 2024/11/27 17:16:49 by iel-ouar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FT_PRINTF_H 
+#ifndef FT_PRINTF_H
 # define FT_PRINTF_H
 
 # include <unistd.h>

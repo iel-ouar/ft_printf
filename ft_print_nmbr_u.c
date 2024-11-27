@@ -6,11 +6,11 @@
 /*   By: iel-ouar <iel-ouar@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/24 17:00:43 by iel-ouar          #+#    #+#             */
-/*   Updated: 2024/11/26 15:10:46 by iel-ouar         ###   ########.fr       */
+/*   Updated: 2024/11/27 17:15:16 by iel-ouar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libftprintf.h"
+#include "ft_printf.h"
 
 int	ft_print_nmbr_u(unsigned int n)
 {

@@ -6,11 +6,11 @@
 /*   By: iel-ouar <iel-ouar@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/24 14:36:07 by iel-ouar          #+#    #+#             */
-/*   Updated: 2024/11/26 14:42:47 by iel-ouar         ###   ########.fr       */
+/*   Updated: 2024/11/27 17:14:41 by iel-ouar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libftprintf.h"
+#include "ft_printf.h"
 
 int	ft_print_str(char *s)
 {

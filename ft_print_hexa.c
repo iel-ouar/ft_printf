@@ -6,11 +6,11 @@
 /*   By: iel-ouar <iel-ouar@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/24 17:00:23 by iel-ouar          #+#    #+#             */
-/*   Updated: 2024/11/26 14:43:10 by iel-ouar         ###   ########.fr       */
+/*   Updated: 2024/11/27 17:15:21 by iel-ouar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libftprintf.h"
+#include "ft_printf.h"
 
 int	ft_print_hexa(char type, unsigned int exa)
 {

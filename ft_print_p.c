@@ -6,11 +6,11 @@
 /*   By: iel-ouar <iel-ouar@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/24 16:59:06 by iel-ouar          #+#    #+#             */
-/*   Updated: 2024/11/27 14:10:01 by iel-ouar         ###   ########.fr       */
+/*   Updated: 2024/11/27 17:15:01 by iel-ouar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libftprintf.h"
+#include "ft_printf.h"
 
 static int	ft_base_16(unsigned long exa)
 {

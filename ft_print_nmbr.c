@@ -6,11 +6,11 @@
 /*   By: iel-ouar <iel-ouar@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/24 14:36:03 by iel-ouar          #+#    #+#             */
-/*   Updated: 2024/11/26 15:24:00 by iel-ouar         ###   ########.fr       */
+/*   Updated: 2024/11/27 17:15:05 by iel-ouar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libftprintf.h"
+#include "ft_printf.h"
 
 int	ft_print_nmbr(int n)
 {
@@ -18,7 +18,7 @@ int	ft_print_nmbr(int n)
 
 	count = 0;
 	if (n == -2147483648)
-		return(count = count + ft_print_str("-2147483648"));
+		return (count = count + ft_print_str("-2147483648"));
 	else if (n < 0)
 	{
 		count = count + ft_print_char('-');

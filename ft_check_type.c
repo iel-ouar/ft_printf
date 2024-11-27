@@ -6,11 +6,11 @@
 /*   By: iel-ouar <iel-ouar@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/24 15:45:57 by iel-ouar          #+#    #+#             */
-/*   Updated: 2024/11/27 14:42:36 by iel-ouar         ###   ########.fr       */
+/*   Updated: 2024/11/27 17:15:42 by iel-ouar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libftprintf.h"
+#include "ft_printf.h"
 
 int	ft_check_type(char type, va_list args)
 {
